@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USB_Sanitizer", "USB_Sanitizer\USB_Sanitizer.csproj", "{37DA5719-9D02-451A-AA1B-CBD40D2F6AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DA5719-9D02-451A-AA1B-CBD40D2F6AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DA5719-9D02-451A-AA1B-CBD40D2F6AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DA5719-9D02-451A-AA1B-CBD40D2F6AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DA5719-9D02-451A-AA1B-CBD40D2F6AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3F9173-650D-4272-9826-86FC5CA84692}
+	EndGlobalSection
+EndGlobal
